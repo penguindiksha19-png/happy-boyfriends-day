@@ -159,16 +159,38 @@ footer{text-align:center;padding:35px;color:#777}
  <h2 class="title">A Little Message 💌</h2>
 
  <div class="message">
-  Happy Boyfriend's Day to the person who makes my
-  world a little brighter. ❤️<br><br>
+  Happy Boyfriend's Day to the person I love the most. 💕<br><br>
 
-  Thank you for the laughs, the conversations,
-  the silly moments and all the memories we've created.
-  I hope we keep collecting thousands more.<br><br>
+  Thank you for making these 9 months so much more beautiful and
+ for breaking my myth that my birthday would never make me happy. 
+ But this time, everything was the opposite.
+ I truly cherish the way you are and the happiness you bring into my life. 🥹<br><br>
 
-  You don't need to be perfect.
-  Just keep being you — that's the person I love having
-  in my life. 🫶
+  We were just two people, living our own way,
+Not knowing we'd find each other again someday.
+Years passed by, but somehow, we crossed paths once more
+And it felt like a feeling we'd known before.
+
+From friendship to love, so quietly it grew,
+And somewhere between the little things, I fell for you.
+Now even ordinary days feel brighter 
+Because having you in my life means more than I know how.
+
+The distance gets heavy, the waiting gets long,
+Sometimes we misunderstand, sometimes things go wrong
+But beneath every little fight, beneath every “I miss you"
+There’s still that quiet feeling that pulls me back to you 
+
+And Snehal, out of everyone I could have known
+I’m grateful somehow that our paths were shown.
+If life gave me the choice, I’d still find my way to you.
+
+Maybe love isn’t always perfect or easy to explain
+Maybe it’s choosing each other through sunshine and rain.
+And if someday life takes us down different roads
+I hope we still find our way back home
+Because no matter how much time passes or where we may be
+I’ll always hope there’s still a “you and me.” 💖
  </div>
 </section>
 
