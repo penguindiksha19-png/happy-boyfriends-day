@@ -3,106 +3,106 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>For My baby Koala 🧿</title>
+<title>For My baby Koala 🧿</title
 
+<style>
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
 body{
-  background:#050000;
-  color:#fff;
+ margin:0;background:#080808;color:white;
+ font-family:Arial,sans-serif;overflow-x:hidden
 }
-
 .hero{
-  background:
-    radial-gradient(circle at 50% 20%,
-    #5c1018 0,
-    #28070c 35%,
-    #050000 75%);
+ min-height:100vh;display:flex;align-items:center;
+ justify-content:center;text-align:center;padding:25px;
+ background:
+ radial-gradient(circle at 50% 20%,#651225 0,#19070d 35%,#080808 70%);
+ position:relative;overflow:hidden
 }
-
 .hero:before{
-  background:#8b1725;
+ content:"";position:absolute;width:500px;height:500px;
+ background:#e50914;filter:blur(160px);opacity:.18;
+ border-radius:50%;animation:pulse 4s infinite
 }
-
+.content{position:relative;z-index:2;max-width:750px}
 .badge{
-  border-color:#8f2634;
-  color:#d96a76;
-  background:#160305;
+ display:inline-block;padding:8px 18px;border:1px solid #e50914;
+ border-radius:30px;color:#ff6b75;font-size:13px;
+ letter-spacing:2px
 }
-
 h1{
-  background:linear-gradient(
-    90deg,#fff,#9f2635,#e05b69,#fff
-  );
-  background-size:200%;
-  color:transparent;
-  background-clip:text;
-  -webkit-background-clip:text;
+ font-size:clamp(45px,10vw,95px);margin:20px 0 5px;
+ background:linear-gradient(90deg,#fff,#ff3345,#fff);
+ background-size:200%;color:transparent;
+ background-clip:text;animation:shine 4s linear infinite
 }
-
-#typing{
-  color:#d84656;
-}
-
+.subtitle{font-size:clamp(18px,4vw,28px);color:#ddd}
+#typing{color:#ff4050;font-weight:bold}
 .btn{
-  background:#721522;
-  border-color:#a32b3a;
-  box-shadow:0 0 20px #70152266;
+ display:inline-block;margin:15px 6px;padding:14px 25px;
+ border-radius:30px;text-decoration:none;color:white;
+ background:#e50914;box-shadow:0 0 20px #e5091466;
+ transition:.3s;cursor:pointer;border:0;font-size:15px
 }
-
-.btn:hover{
-  background:#8c1b2a;
-  box-shadow:0 0 35px #9b2435;
+.btn:hover{transform:scale(1.08);box-shadow:0 0 35px #e50914}
+section{padding:80px 20px;max-width:1000px;margin:auto}
+.title{text-align:center;font-size:38px;margin-bottom:35px}
+.cards{
+ display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));
+ gap:20px
 }
-
-.title{
-  color:#e0a0a7;
-}
-
 .card{
-  background:linear-gradient(145deg,#21070b,#0d0203);
-  border-color:#401018;
+ background:linear-gradient(145deg,#171717,#0e0e0e);
+ border:1px solid #292929;border-radius:18px;padding:28px;
+ text-align:center;transition:.4s
 }
-
 .card:hover{
-  border-color:#8c1c2b;
-  box-shadow:0 15px 40px #7d172530;
+ transform:translateY(-10px);border-color:#e50914;
+ box-shadow:0 15px 40px #e5091430
 }
-
-.card h3{
-  color:#d94a59;
-}
-
-.card p{
-  color:#c9adaf;
-}
-
+.icon{font-size:45px}
+.card h3{color:#ff4050}
 .message{
-  background:linear-gradient(135deg,#26070c,#120204);
-  border-color:#51121c;
-  color:#e2c8ca;
-  box-shadow:0 10px 40px #3d091230;
+ background:linear-gradient(135deg,#18080d,#250b12);
+ border-radius:25px;padding:35px;text-align:center;
+ border:1px solid #46141d;line-height:1.8;font-size:18px
 }
-
 .counter{
-  color:#c9adaf;
+ text-align:center;font-size:22px;margin-top:30px
 }
-
-.counter span{
-  color:#d84656;
-}
-
+.counter span{color:#ff4050;font-weight:bold;font-size:32px}
 .surprise{
-  background:radial-gradient(circle,#310911,#100203);
-  border-color:#54121d;
-  box-shadow:0 0 45px #5d111c33;
+ text-align:center;padding:45px 20px;border-radius:25px;
+ background:#111;border:1px solid #333
 }
-
+.hidden{display:none}
 #secret{
-  color:#e67883;
+ margin-top:25px;color:#ff8090;font-size:21px;
+ animation:pop .5s ease
 }
-
-footer{
-  color:#79575b;
+footer{text-align:center;padding:35px;color:#777}
+.heart{
+ position:fixed;bottom:-30px;font-size:20px;
+ pointer-events:none;animation:float 6s linear forwards;
+ z-index:10
 }
+@keyframes float{
+ 0%{transform:translateY(0) rotate(0);opacity:0}
+ 10%{opacity:1}
+ 100%{transform:translateY(-110vh) rotate(360deg);opacity:0}
+}
+@keyframes shine{
+ to{background-position:200%}
+}
+@keyframes pulse{
+ 50%{transform:scale(1.4);opacity:.3}
+}
+@keyframes pop{
+ from{transform:scale(.5);opacity:0}
+ to{transform:scale(1);opacity:1}
+}
+</style>
+</head>
 
 <body>
 
