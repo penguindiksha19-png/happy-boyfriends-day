@@ -109,7 +109,7 @@ footer{text-align:center;padding:35px;color:#777}
  <div class="content">
   <div class="badge"> HAPPY BOYFRIEND'S DAY ❤️</div>
 
-  <h1>My Person.</h1>
+  <h1>My cherry cheesecake.</h1>
 
   <p class="subtitle">
    You are <span id="typing"></span>
@@ -238,13 +238,13 @@ I’ll always hope there’s still a “you and me.” 💖
    If I could give you one thing today,
    it would be the ability to see yourself
    through my eyes. ❤️<br><br>
-   Happy Boyfriend's Day, idiot. 🫶
+   Happy Boyfriend's Day, idiot. 🫂🥹😚
   </div>
  </div>
 </section>
 
 <footer>
- Made with ❤️ for my favourite person.
+ Made with 💕 for my Subbu baby.
 </footer>
 
 <script>
@@ -294,7 +294,7 @@ function hearts(){
  for(let x=0;x<18;x++){
   const h=document.createElement("div");
   h.className="heart";
-  h.textContent=["❤️","💕","💗","💖","🫶"][Math.floor(Math.random()*5)];
+  h.textContent=["💋","💕","💗","💖","🧿"][Math.floor(Math.random()*5)];
   h.style.left=Math.random()*100+"vw";
   h.style.animationDuration=(3+Math.random()*4)+"s";
   h.style.fontSize=(15+Math.random()*25)+"px";
