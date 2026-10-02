@@ -2,7 +2,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>For My Favourite Person ❤️</title>
+<title>For My dearest boyfriend 💖</title>
 
 <style>
 *{box-sizing:border-box}
@@ -107,7 +107,7 @@ footer{text-align:center;padding:35px;color:#777}
 
 <div class="hero">
  <div class="content">
-  <div class="badge">BOYFRIEND'S DAY ❤️</div>
+  <div class="badge"> HAPPY BOYFRIEND'S DAY ❤️</div>
 
   <h1>My Person.</h1>
 
@@ -117,7 +117,8 @@ footer{text-align:center;padding:35px;color:#777}
 
   <p>
    One little website for one very special person.
-   Because some feelings deserve their own screen. ❤️
+   Obviously, I’m not the only one who made this, but ChatGPT did.
+   I love you so much dearest Subbu. ❤️
   </p>
 
   <a href="#story" class="btn">Start Watching ▶</a>
@@ -131,29 +132,27 @@ footer{text-align:center;padding:35px;color:#777}
  <div class="cards">
   <div class="card">
    <div class="icon">🫶</div>
-   <h3>My Comfort</h3>
-   <p>Somehow talking to you makes ordinary days feel better.</p>
+   <h3>My Comfort zone</h3>
+   <p>Somehow, talking to you makes ordinary days feel bright
+    Even the quietest moments somehow feel right.
+    But when I don’t talk to you, something feels off
+    And maybe that’s how I know my heart feels at home with you 😚.</p>
   </div>
 
   <div class="card">
    <div class="icon">✨</div>
-   <h3>My Favourite</h3>
-   <p>Out of all the people in this huge world, I'm glad I found you.</p>
+   <h3>My Love</h3>
+   <p>Out of all the people in this huge world, I'm glad I found you.
+    Through all the roads I could’ve taken, somehow mine crossed with you.
+    And if I had to choose again, I’d still choose finding you. 💕</p>
   </div>
 
   <div class="card">
    <div class="icon">🌙</div>
    <h3>My Safe Place</h3>
-   <p>You are one of those people I can simply be myself around.</p>
+   <p>You’re my safe place, where I can simply be me,
+    No masks, no pretending, just honest and free.🎀.</p>
   </div>
-
-  <div class="card">
-   <div class="icon">♾️</div>
-   <h3>My Always</h3>
-   <p>No matter how crazy life gets, you'll always mean something special.</p>
-  </div>
- </div>
-</section>
 
 <section>
  <h2 class="title">A Little Message 💌</h2>
