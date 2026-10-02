@@ -307,9 +307,7 @@ setInterval(()=>{
  if(Math.random()<.35) hearts();
 },3000);
 </script>
-<a href="...">happy-boyfriends-day-</a>
-<!-- OR -->
-<h1>happy-boyfriends-day-</h1>
+
 
 
 
