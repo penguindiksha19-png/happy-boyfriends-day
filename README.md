@@ -118,8 +118,8 @@ footer{text-align:center;padding:35px;color:#777}
 
   <p>
    One little website for one very special person.
-   Obviously I'm not the only one who made but this chatgpt did
-   I love you so much Subbu. ❤️
+   Obviously, I’m not the only one who made this, but ChatGPT did.
+   I love you so much dearest Subbu. ❤️
   </p>
 
   <a href="#story" class="btn">Start Watching ▶</a>
@@ -133,44 +133,64 @@ footer{text-align:center;padding:35px;color:#777}
  <div class="cards">
   <div class="card">
    <div class="icon">🫶</div>
-   <h3>My Comfort</h3>
-   <p>Somehow talking to you makes ordinary days feel better.</p>
+   <h3>My Comfort zone</h3>
+   <p>Somehow, talking to you makes ordinary days feel bright
+    Even the quietest moments somehow feel right.
+    But when I don’t talk to you, something feels off
+    And maybe that’s how I know my heart feels at home with you 😚.</p>
   </div>
 
   <div class="card">
    <div class="icon">✨</div>
-   <h3>My Favourite</h3>
-   <p>Out of all the people in this huge world, I'm glad I found you.</p>
+   <h3>My Love</h3>
+   <p>Out of all the people in this huge world, I'm glad I found you.
+    Through all the roads I could’ve taken, somehow mine crossed with you.
+    And if I had to choose again, I’d still choose finding you. 💖</p>
   </div>
 
   <div class="card">
    <div class="icon">🌙</div>
    <h3>My Safe Place</h3>
-   <p>You are one of those people I can simply be myself around.</p>
+   <p>You’re my safe place, where I can simply be me,
+    No masks, no pretending, just honest and free.🎀</p>
   </div>
-
-  <div class="card">
-   <div class="icon">♾️</div>
-   <h3>My Always</h3>
-   <p>No matter how crazy life gets, you'll always mean something special.</p>
-  </div>
- </div>
-</section>
 
 <section>
  <h2 class="title">A Little Message 💌</h2>
 
  <div class="message">
-  Happy Boyfriend's Day to the person who makes my
-  world a little brighter. ❤️<br><br>
+  Happy Boyfriend's Day to the person I love the most. 💕<br><br>
 
-  Thank you for the laughs, the conversations,
-  the silly moments and all the memories we've created.
-  I hope we keep collecting thousands more.<br><br>
+ Thank you for making these 9 months so much more beautiful and
+ for breaking my myth that my birthday would never make me happy. 
+ But this time, everything was the opposite.
+ I truly cherish the way you are and the happiness you bring into my life. 🥹<br><br>
 
-  You don't need to be perfect.
-  Just keep being you — that's the person I love having
-  in my life. 🫶
+  We were just two people, living our own way,
+Not knowing we'd find each other again someday.
+Years passed by, but somehow, we crossed paths once more
+And it felt like a feeling we'd known before.
+
+From friendship to love, so quietly it grew,
+And somewhere between the little things, I fell for you.
+Now even ordinary days feel brighter 
+Because having you in my life means more than I know how.
+
+The distance gets heavy, the waiting gets long,
+Sometimes we misunderstand, sometimes things go wrong
+But beneath every little fight, beneath every “I miss you"
+There’s still that quiet feeling that pulls me back to you 
+
+And Snehal, out of everyone I could have known
+I’m grateful somehow that our paths were shown.
+If life gave me the choice, I’d still find my way to you.
+
+Maybe love isn’t always perfect or easy to explain
+Maybe it’s choosing each other through sunshine and rain.
+And if someday life takes us down different roads
+I hope we still find our way back home
+Because no matter how much time passes or where we may be
+I’ll always hope there’s still a “you and me.” 💖
  </div>
 </section>
 
@@ -218,8 +238,8 @@ footer{text-align:center;padding:35px;color:#777}
   <div id="secret" class="hidden">
    If I could give you one thing today,
    it would be the ability to see yourself
-   through my eyes. ❤️<br><br>
-   Happy Boyfriend's Day, idiot. 🫶
+   through my eyes. 🥹🧿🎀💕<br><br>
+   Happy Boyfriend's Day, idiot. 🫂💋💕
   </div>
  </div>
 </section>
@@ -275,7 +295,7 @@ function hearts(){
  for(let x=0;x<18;x++){
   const h=document.createElement("div");
   h.className="heart";
-  h.textContent=["❤️","💕","💗","💖","🫶"][Math.floor(Math.random()*5)];
+  h.textContent=["🧿","💕","💗","💖","💋"][Math.floor(Math.random()*5)];
   h.style.left=Math.random()*100+"vw";
   h.style.animationDuration=(3+Math.random()*4)+"s";
   h.style.fontSize=(15+Math.random()*25)+"px";
