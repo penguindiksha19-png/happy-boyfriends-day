@@ -151,7 +151,7 @@ footer{text-align:center;padding:35px;color:#777}
    <div class="icon">🌙</div>
    <h3>My Safe Place</h3>
    <p>You’re my safe place, where I can simply be me,
-    No masks, no pretending, just honest and free.🎀.</p>
+    No masks, no pretending, just honest and free 🎀.</p>
   </div>
 
 <section>
@@ -237,7 +237,10 @@ I’ll always hope there’s still a “you and me.” 💖
   <div id="secret" class="hidden">
    If I could give you one thing today,
    it would be the ability to see yourself
-   through my eyes. ❤️<br><br>
+   through my eyes. I really miss you rn.
+   I wanted to make something special for you,
+   so I made this website. Ik it’s not perfect,
+   but it’s the best I could do ❤️<br><br>
    Happy Boyfriend's Day, idiot. 🫂🥹😚
   </div>
  </div>
