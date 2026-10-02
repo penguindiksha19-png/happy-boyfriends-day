@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>For My Favourite Person ❤️</title>
+<title>For My baby Koala 🧿</title>
 
 <style>
 *{box-sizing:border-box}
@@ -108,7 +108,7 @@ footer{text-align:center;padding:35px;color:#777}
 
 <div class="hero">
  <div class="content">
-  <div class="badge">BOYFRIEND'S DAY ❤️</div>
+  <div class="badge">HAPPY BOYFRIEND'S DAY ❤️</div>
 
   <h1>My Person.</h1>
 
@@ -118,7 +118,8 @@ footer{text-align:center;padding:35px;color:#777}
 
   <p>
    One little website for one very special person.
-   Because some feelings deserve their own screen. ❤️
+   Obviously I'm not the only one who made but this chatgpt did
+   I love you so much Subbu. ❤️
   </p>
 
   <a href="#story" class="btn">Start Watching ▶</a>
