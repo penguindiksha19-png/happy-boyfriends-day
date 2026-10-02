@@ -1,9 +1,10 @@
 
+<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>For My baby Koala 🧿</title
+<title>For My dearest boyfriend ❤️</title>
 
 <style>
 *{box-sizing:border-box}
